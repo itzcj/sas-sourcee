@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "tif1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "21 21 21 21 21 21 21 21"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dialogue test"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tif1",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "changetest"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

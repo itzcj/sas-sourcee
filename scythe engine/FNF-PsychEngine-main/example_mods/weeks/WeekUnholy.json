@@ -1,0 +1,40 @@
+{
+	"storyName": "wanna make a deal? / noncanonical unholy au",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "unholy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"unholytrinity",
+		"bfgreen",
+		""
+	],
+	"songs": [
+		[
+			"sinner",
+			"UnholyTrinity",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"multiversal",
+			"FleshTrinity",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Gf_snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey babe wheres the local wendys"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean, we are legit in the middle of a snowy forest"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dumbass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "BF_snow",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "IS THAT THE GRIM REAPER???!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_snow",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "serenitydia",
+			"boxState": "normal",
+			"expression": "talky",
+			"text": "you're dying, and im here to take you to the afterlife."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "GF_snow",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "ITS THE GOD DAMNED GRIM RAPPER?!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_snow",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BEEEEP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Gf_snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh yeah oh wait"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "serenitydia",
+			"boxState": "normal",
+			"expression": "no",
+			"text": "huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you're not taking him, unless you beat him in a rap battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "serenitydia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wow, really now, and what are you gonna do about it?"
+		},
+		{
+			"speed": 0.155,
+			"portrait": "Gf_snow",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "beep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_snow",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "dawg..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "serenitydia",
+			"boxState": "normal",
+			"expression": "talky",
+			"text": "Jeez, fine. But you had better hope I win, you don't wanna be immortal after this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "serenitydia",
+			"boxState": "normal",
+			"expression": "oh",
+			"text": "Unless you're just that stupid."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bopper beepin"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf_snow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He says its on!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_snow",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "*midget sounds*"
+		}
+	]
+}

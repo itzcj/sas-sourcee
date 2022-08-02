@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		30,
+		-240
+	],
+	"no_antialiasing": false,
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				100,
+				-100
+			],
+			"idle_offsets": [
+				100,
+				-100
+			],
+			"loop_name": "Trinity talk loop",
+			"idle_name": "Trinity talk loop"
+		},
+		{
+			"loop_offsets": [
+				100,
+				-100
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				98,
+				-100
+			],
+			"loop_name": "Trinity talk normal",
+			"idle_name": "Trinity talk normal"
+		},
+		{
+			"loop_offsets": [
+				90,
+				-101
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				91,
+				-100
+			],
+			"loop_name": "Trinity bruh loop",
+			"idle_name": "Trinity bruh loop"
+		},
+		{
+			"loop_name": "Trinity Laugh loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Trinity Laugh loop",
+			"anim": "laugh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "trinDia"
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Serenity.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="631" height="634" frameX="0" frameY="-11" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="631" height="634" frameX="0" frameY="-11" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0002" x="666" y="0" width="623" height="641" frameX="-6" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0003" x="666" y="0" width="623" height="641" frameX="-6" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0004" x="1324" y="0" width="623" height="645" frameX="-11" frameY="0" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0005" x="1324" y="0" width="623" height="645" frameX="-11" frameY="0" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0006" x="0" y="680" width="626" height="641" frameX="-11" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0007" x="0" y="680" width="626" height="641" frameX="-11" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0008" x="0" y="680" width="626" height="641" frameX="-11" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0009" x="0" y="680" width="626" height="641" frameX="-11" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0010" x="0" y="680" width="626" height="641" frameX="-11" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0011" x="0" y="680" width="626" height="641" frameX="-11" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0012" x="0" y="680" width="626" height="641" frameX="-11" frameY="-4" frameWidth="637" frameHeight="645"/>
+	<SubTexture name="Idle0013" x="0" y="680" width="626" height="641" frameX="-11" frameY="-4" frameWidth="637" frameHeight="645"/>
+</TextureAtlas>

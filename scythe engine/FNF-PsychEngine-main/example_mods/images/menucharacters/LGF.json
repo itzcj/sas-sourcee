@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF HEY",
+	"idle_anim": "",
+	"position": [
+		283,
+		203
+	],
+	"scale": 0.75,
+	"image": "GF_library",
+	"flipX": false
+}

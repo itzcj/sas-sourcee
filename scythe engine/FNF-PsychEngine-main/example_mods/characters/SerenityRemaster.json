@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-230
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-122
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-81
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-142,
+				-135
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-146
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SerenityRemaster",
+	"position": [
+		-70,
+		-60
+	],
+	"healthicon": "SerenityRemaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		173,
+		173
+	],
+	"camera_position": [
+		-120,
+		120
+	],
+	"sing_duration": 5,
+	"scale": 1.1
+}

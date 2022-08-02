@@ -1,0 +1,49 @@
+{
+	"storyName": "dancing with death",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "serenity",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"serenity",
+		"coldBF",
+		"coldGF"
+	],
+	"songs": [
+		[
+			"Goth",
+			"serenityRemaster",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"deathDate",
+			"serenityRemaster",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Grim",
+			"SerenityRemaster",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "serenity"
+}

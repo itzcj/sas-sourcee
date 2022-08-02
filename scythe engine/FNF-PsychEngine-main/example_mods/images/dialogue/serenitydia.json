@@ -1,0 +1,76 @@
+{
+	"position": [
+		520,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Serenitydia",
+	"animations": [
+		{
+			"idle_offsets": [
+				517,
+				99
+			],
+			"loop_offsets": [
+				522,
+				104
+			],
+			"anim": "talk",
+			"idle_name": "SerenityTalk",
+			"loop_name": "Serenitytalkloop"
+		},
+		{
+			"idle_offsets": [
+				534,
+				92
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				535,
+				92
+			],
+			"idle_name": "Serenity2STOP",
+			"loop_name": "Serenity2 loop"
+		},
+		{
+			"idle_offsets": [
+				524,
+				112
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				524,
+				113
+			],
+			"idle_name": "SerenitySlightShut",
+			"loop_name": "SerenitySlight Loop"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "BF SHOCK0",
+			"loop_name": "BF SHOCK LOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "SerenityTalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Serenitytalkloop",
+			"idle_name": ""
+		}
+	]
+}

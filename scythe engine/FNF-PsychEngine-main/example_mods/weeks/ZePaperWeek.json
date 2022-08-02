@@ -1,0 +1,41 @@
+{
+	"storyName": "Photoshop Feverdream",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "paper",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"carousel",
+			"jovi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"magicbabe",
+			"joviAndJova",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"jjson",
+		"Pbf",
+		"Pgf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Paper Week"
+}

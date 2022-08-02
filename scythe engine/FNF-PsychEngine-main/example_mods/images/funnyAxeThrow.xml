@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="funnyAxeThrow.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="funnyAxeThrow0000" x="0" y="0" width="615" height="703" frameX="-160" frameY="-28" frameWidth="942" frameHeight="735"/>
+	<SubTexture name="funnyAxeThrow0001" x="615" y="0" width="304" height="735" frameX="-304" frameY="0" frameWidth="942" frameHeight="735"/>
+	<SubTexture name="funnyAxeThrow0002" x="919" y="0" width="637" height="702" frameX="-205" frameY="-30" frameWidth="942" frameHeight="735"/>
+	<SubTexture name="funnyAxeThrow0003" x="0" y="735" width="747" height="340" frameX="-120" frameY="-179" frameWidth="942" frameHeight="735"/>
+	<SubTexture name="funnyAxeThrow0004" x="747" y="735" width="528" height="677" frameX="-243" frameY="-7" frameWidth="942" frameHeight="735"/>
+	<SubTexture name="funnyAxeThrow0005" x="1275" y="735" width="504" height="668" frameX="-207" frameY="-8" frameWidth="942" frameHeight="735"/>
+	<SubTexture name="funnyAxeThrow0006" x="0" y="1412" width="942" height="407" frameX="0" frameY="-115" frameWidth="942" frameHeight="735"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="joviAndJova.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="587" height="777" frameX="0" frameY="-5" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0001" x="622" y="0" width="575" height="777" frameX="0" frameY="-5" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0002" x="1232" y="0" width="515" height="782" frameX="-3" frameY="0" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0003" x="1782" y="0" width="518" height="782" frameX="-3" frameY="0" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0004" x="2335" y="0" width="590" height="777" frameX="-4" frameY="-5" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0005" x="2960" y="0" width="626" height="777" frameX="-4" frameY="-5" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0006" x="0" y="817" width="635" height="775" frameX="-3" frameY="-6" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0007" x="0" y="817" width="635" height="775" frameX="-3" frameY="-6" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0008" x="670" y="817" width="636" height="775" frameX="-2" frameY="-6" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0009" x="670" y="817" width="636" height="775" frameX="-2" frameY="-6" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0010" x="670" y="817" width="636" height="775" frameX="-2" frameY="-6" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0011" x="670" y="817" width="636" height="775" frameX="-2" frameY="-6" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0012" x="670" y="817" width="636" height="775" frameX="-2" frameY="-6" frameWidth="638" frameHeight="782"/>
+	<SubTexture name="Idle0013" x="670" y="817" width="636" height="775" frameX="-2" frameY="-6" frameWidth="638" frameHeight="782"/>
+</TextureAtlas>

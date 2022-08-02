@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				364,
+				-67
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				88,
+				-115
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "IdlesssFINAL"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Lesssft"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Rsssight"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Usssp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				269,
+				339
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IdleParttwo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				227,
+				-117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				-74
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TiffanyDrabend",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "TiffanyDrab",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

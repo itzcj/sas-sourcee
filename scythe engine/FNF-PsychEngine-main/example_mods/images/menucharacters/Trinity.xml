@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Trinity.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lifeidle0000" x="0" y="0" width="432" height="574" frameX="-13" frameY="-8" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0001" x="0" y="0" width="432" height="574" frameX="-13" frameY="-8" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0002" x="467" y="0" width="439" height="578" frameX="-7" frameY="-4" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0003" x="467" y="0" width="439" height="578" frameX="-7" frameY="-4" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0004" x="941" y="0" width="438" height="581" frameX="-4" frameY="-1" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0005" x="1414" y="0" width="441" height="581" frameX="-1" frameY="-1" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0006" x="0" y="616" width="442" height="582" frameX="-1" frameY="0" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0007" x="477" y="616" width="443" height="582" frameX="0" frameY="0" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0008" x="955" y="616" width="446" height="581" frameX="0" frameY="-1" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0009" x="955" y="616" width="446" height="581" frameX="0" frameY="-1" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0010" x="955" y="616" width="446" height="581" frameX="0" frameY="-1" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0011" x="955" y="616" width="446" height="581" frameX="0" frameY="-1" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0012" x="955" y="616" width="446" height="581" frameX="0" frameY="-1" frameWidth="446" frameHeight="582"/>
+	<SubTexture name="Lifeidle0013" x="955" y="616" width="446" height="581" frameX="0" frameY="-1" frameWidth="446" frameHeight="582"/>
+</TextureAtlas>

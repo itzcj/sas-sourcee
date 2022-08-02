@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Serenitydia.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Serenity2 loop0000" x="0" y="0" width="989" height="777" frameX="0" frameY="-6" frameWidth="1021" frameHeight="783"/>
+	<SubTexture name="Serenity2 loop0001" x="0" y="0" width="989" height="777" frameX="0" frameY="-6" frameWidth="1021" frameHeight="783"/>
+	<SubTexture name="Serenity2 loop0002" x="1024" y="0" width="991" height="783" frameX="-4" frameY="0" frameWidth="1021" frameHeight="783"/>
+	<SubTexture name="Serenity2 loop0003" x="1024" y="0" width="991" height="783" frameX="-4" frameY="0" frameWidth="1021" frameHeight="783"/>
+	<SubTexture name="Serenity2 loop0004" x="2050" y="0" width="1017" height="779" frameX="-4" frameY="-4" frameWidth="1021" frameHeight="783"/>
+	<SubTexture name="Serenity2 loop0005" x="2050" y="0" width="1017" height="779" frameX="-4" frameY="-4" frameWidth="1021" frameHeight="783"/>
+	<SubTexture name="Serenity2STOP0000" x="0" y="818" width="1017" height="779"/>
+	<SubTexture name="SerenitySlight Loop0000" x="1052" y="818" width="957" height="896" frameX="0" frameY="0" frameWidth="957" frameHeight="934"/>
+	<SubTexture name="SerenitySlight Loop0001" x="1052" y="818" width="957" height="896" frameX="0" frameY="0" frameWidth="957" frameHeight="934"/>
+	<SubTexture name="SerenitySlight Loop0002" x="2044" y="818" width="940" height="909" frameX="-7" frameY="-2" frameWidth="957" frameHeight="934"/>
+	<SubTexture name="SerenitySlight Loop0003" x="2044" y="818" width="940" height="909" frameX="-7" frameY="-2" frameWidth="957" frameHeight="934"/>
+	<SubTexture name="SerenitySlight Loop0004" x="3019" y="818" width="920" height="934" frameX="-14" frameY="0" frameWidth="957" frameHeight="934"/>
+	<SubTexture name="SerenitySlight Loop0005" x="3019" y="818" width="920" height="934" frameX="-14" frameY="0" frameWidth="957" frameHeight="934"/>
+	<SubTexture name="SerenitySlightShut0000" x="0" y="1787" width="920" height="938"/>
+	<SubTexture name="SerenityTalk0000" x="955" y="1787" width="945" height="801"/>
+	<SubTexture name="Serenitytalkloop0000" x="1935" y="1787" width="962" height="808"/>
+	<SubTexture name="Serenitytalkloop0001" x="1935" y="1787" width="962" height="808"/>
+	<SubTexture name="Serenitytalkloop0002" x="2932" y="1787" width="958" height="806" frameX="-4" frameY="-2" frameWidth="962" frameHeight="808"/>
+	<SubTexture name="Serenitytalkloop0003" x="2932" y="1787" width="958" height="806" frameX="-4" frameY="-2" frameWidth="962" frameHeight="808"/>
+	<SubTexture name="Serenitytalkloop0004" x="955" y="1787" width="945" height="801" frameX="-7" frameY="-7" frameWidth="945" frameHeight="801"/>
+	<SubTexture name="Serenitytalkloop0005" x="955" y="1787" width="945" height="801" frameX="-7" frameY="-7" frameWidth="945" frameHeight="801"/>
+</TextureAtlas>

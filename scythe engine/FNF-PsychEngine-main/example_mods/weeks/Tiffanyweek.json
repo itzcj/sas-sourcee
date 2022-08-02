@@ -1,0 +1,58 @@
+{
+	"storyName": "pushing your limits",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tiffany",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Devoiced",
+			"tiffanyNormal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Red Dreams",
+			"TifManifestation",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Isolation",
+			"tiffanyNormal",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Chopping Frenzy",
+			"TifManifestation",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"tiffany",
+		"bf",
+		"gf"
+	],
+	"weekName": "die"
+}

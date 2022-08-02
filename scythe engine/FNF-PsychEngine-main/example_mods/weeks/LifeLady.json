@@ -1,0 +1,49 @@
+{
+	"storyName": "life",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "trinity",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Scepter",
+			"TrinityFNF",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"orb",
+			"trinityFNF",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"momma nature",
+			"trinityfnf",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"trinity",
+		"bf",
+		"gf"
+	],
+	"weekName": "GreenWoman"
+}

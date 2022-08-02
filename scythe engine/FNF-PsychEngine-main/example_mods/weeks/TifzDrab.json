@@ -1,0 +1,31 @@
+{
+	"storyName": "Bf Canonically dies at the end lmaooo",
+	"difficulties": "Drab",
+	"hideFreeplay": false,
+	"weekBackground": "tiffany",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Tiffanyweek",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tiffanydrab",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"drab",
+			"TiffanyDrab",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "drab"
+}

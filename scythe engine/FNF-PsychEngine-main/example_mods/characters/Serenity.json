@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				-58
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-58
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				3
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-67
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-16
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SerenityRemaster",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "SerenityRemaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		173,
+		173
+	],
+	"camera_position": [
+		-120,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

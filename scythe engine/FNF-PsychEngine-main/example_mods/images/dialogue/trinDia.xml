@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trinDia.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Trinity Laugh loop0000" x="0" y="0" width="514" height="994" frameX="-17" frameY="-13" frameWidth="538" frameHeight="1007"/>
+	<SubTexture name="Trinity Laugh loop0001" x="0" y="0" width="514" height="994" frameX="-17" frameY="-13" frameWidth="538" frameHeight="1007"/>
+	<SubTexture name="Trinity Laugh loop0002" x="525" y="0" width="538" height="983" frameX="0" frameY="-24" frameWidth="538" frameHeight="1007"/>
+	<SubTexture name="Trinity Laugh loop0003" x="525" y="0" width="538" height="983" frameX="0" frameY="-24" frameWidth="538" frameHeight="1007"/>
+	<SubTexture name="Trinity Laugh loop0004" x="1074" y="0" width="515" height="1007" frameX="-23" frameY="0" frameWidth="538" frameHeight="1007"/>
+	<SubTexture name="Trinity Laugh loop0005" x="1074" y="0" width="515" height="1007" frameX="-23" frameY="0" frameWidth="538" frameHeight="1007"/>
+	<SubTexture name="Trinity bruh loop 0000" x="1600" y="0" width="613" height="856"/>
+	<SubTexture name="Trinity bruh loop 0001" x="1600" y="0" width="613" height="856"/>
+	<SubTexture name="Trinity talk loop0000" x="2224" y="0" width="613" height="856" frameX="-16" frameY="-2" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk loop0001" x="2224" y="0" width="613" height="856" frameX="-16" frameY="-2" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk loop0002" x="2848" y="0" width="621" height="856" frameX="-7" frameY="-2" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk loop0003" x="2848" y="0" width="621" height="856" frameX="-7" frameY="-2" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk loop0004" x="3480" y="0" width="618" height="858" frameX="0" frameY="0" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk loop0005" x="3480" y="0" width="618" height="858" frameX="0" frameY="0" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk normal0000" x="4109" y="0" width="613" height="856" frameX="-16" frameY="-2" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk normal0001" x="4109" y="0" width="613" height="856" frameX="-16" frameY="-2" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk normal0002" x="4733" y="0" width="621" height="856" frameX="-7" frameY="-2" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk normal0003" x="4733" y="0" width="621" height="856" frameX="-7" frameY="-2" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk normal0004" x="5365" y="0" width="618" height="858" frameX="0" frameY="0" frameWidth="629" frameHeight="858"/>
+	<SubTexture name="Trinity talk normal0005" x="5365" y="0" width="618" height="858" frameX="0" frameY="0" frameWidth="629" frameHeight="858"/>
+</TextureAtlas>

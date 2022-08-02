@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SnSLogo.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SerenityBop0000" x="0" y="0" width="599" height="669" frameX="0" frameY="-47" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0001" x="0" y="0" width="599" height="669" frameX="0" frameY="-47" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0002" x="634" y="0" width="600" height="696" frameX="-1" frameY="-20" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0003" x="634" y="0" width="600" height="696" frameX="-1" frameY="-20" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0004" x="1269" y="0" width="606" height="709" frameX="-3" frameY="-7" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0005" x="1269" y="0" width="606" height="709" frameX="-3" frameY="-7" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0006" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0007" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0008" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0009" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0010" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0011" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0012" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0013" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+	<SubTexture name="SerenityBop0014" x="0" y="744" width="608" height="716" frameX="-9" frameY="0" frameWidth="617" frameHeight="716"/>
+</TextureAtlas>

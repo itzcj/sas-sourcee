@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF HEY",
+	"idle_anim": "",
+	"position": [
+		224,
+		271
+	],
+	"scale": 0.65,
+	"image": "TiffanyDrab",
+	"flipX": false
+}

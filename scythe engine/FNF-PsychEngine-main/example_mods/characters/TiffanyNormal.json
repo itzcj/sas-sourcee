@@ -1,0 +1,198 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-90
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IdleFINAL"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				-49,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-12,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-98
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		},
+		{
+			"offsets": [
+				13,
+				-99
+			],
+			"indices": [
+				1,
+				2,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TiffanyNormal",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "tiffanynormal",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		37,
+		255
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1
+}

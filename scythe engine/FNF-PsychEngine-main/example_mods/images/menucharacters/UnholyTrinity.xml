@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UnholyTrinity.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="261" height="549" frameX="-17" frameY="-13" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="261" height="549" frameX="-17" frameY="-13" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0002" x="296" y="0" width="267" height="551" frameX="-13" frameY="-11" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0003" x="296" y="0" width="267" height="551" frameX="-13" frameY="-11" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0004" x="598" y="0" width="283" height="559" frameX="-4" frameY="-4" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0005" x="916" y="0" width="283" height="563" frameX="-4" frameY="0" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0006" x="1234" y="0" width="299" height="553" frameX="0" frameY="-10" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0007" x="1234" y="0" width="299" height="553" frameX="0" frameY="-10" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0008" x="1234" y="0" width="299" height="553" frameX="0" frameY="-10" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0009" x="1234" y="0" width="299" height="553" frameX="0" frameY="-10" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0010" x="1234" y="0" width="299" height="553" frameX="0" frameY="-10" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0011" x="1234" y="0" width="299" height="553" frameX="0" frameY="-10" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0012" x="1234" y="0" width="299" height="553" frameX="0" frameY="-10" frameWidth="299" frameHeight="563"/>
+	<SubTexture name="Idle0013" x="1234" y="0" width="299" height="553" frameX="0" frameY="-10" frameWidth="299" frameHeight="563"/>
+</TextureAtlas>

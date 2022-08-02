@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="21.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TwoOne0000" x="250" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0001" x="250" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0002" x="250" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0003" x="250" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0004" x="250" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0005" x="250" y="0" width="249" height="330"/>
+    
+    <SubTexture name="TwoOne0006" x="0" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0007" x="0" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0008" x="0" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0009" x="0" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0010" x="0" y="0" width="249" height="330"/>
+    <SubTexture name="TwoOne0011" x="0" y="0" width="249" height="330"/>
+</TextureAtlas>
